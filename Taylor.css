@@ -1,0 +1,38 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+   }
+h3{
+    color:#eb3462 ;
+}
+body{
+    background-color: cadetblue;
+    background-attachment:fixed;
+}
+.a{
+    border-style: dashed solid dotted double;
+    border-width: 5px;
+    border-color:#fcba03 ;
+}
+.b{
+    border-style: solid;
+    border-width: 2px;
+    padding: 0.5%;
+    border-radius: 10px;
+}
+.c{
+    border-style: double;
+    border-width: 5px;
+    border-radius: 5px;
+}
+dl{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 50 px;
+    height: 50px;
+    width: 25%;
+    background-color: aquamarine;
+}
+
+
